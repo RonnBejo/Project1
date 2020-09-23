@@ -1,4 +1,5 @@
 # webinar
 getting started with github   
 
-## start
+
+making changes via local machine
